@@ -1,2 +1,2 @@
-const API_KEY = '157f9eb7';
+const API_KEY = '67358f7e';
 module.exports = API_KEY;
