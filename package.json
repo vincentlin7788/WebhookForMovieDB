@@ -18,5 +18,13 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentlin7788/WebhookForMovieDB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vincentlin7788/WebhookForMovieDB/issues"
+  },
+  "homepage": "https://github.com/vincentlin7788/WebhookForMovieDB#readme"
 }
